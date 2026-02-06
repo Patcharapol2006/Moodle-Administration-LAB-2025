@@ -329,6 +329,8 @@ docker pull mariadb:latest
 ```
 
 **บันทึกผลการทดลอง 1:**
+<img width="791" height="204" alt="Screenshot 2026-02-06 094431" src="https://github.com/user-attachments/assets/8f29ff2e-40ea-4fc5-b581-d4115edf1600" />
+
 ```bash
  รูปผลการโหลด Images ที่สมบูรณ์ 
 ```
@@ -352,7 +354,11 @@ Creating moodle_app ... done
 ```
 
 **บันทึกผลการทดลอง 2:**
+<img width="505" height="186" alt="Screenshot 2026-02-06 094736" src="https://github.com/user-attachments/assets/8b8d6025-4577-4eb7-b38e-f016ab425dfc" />
+
+
 ```bash
+
  รูปผลการรัน docker-compose ที่สมบูรณ์ 
 ```
 
